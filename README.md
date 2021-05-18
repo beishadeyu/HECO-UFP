@@ -105,7 +105,3 @@ allow [holder] = allowApprove;
 
 }
 
-
-作者：区块链小菜鸡
-https://www.bilibili.com/read/cv11207687
-出处： bilibili
